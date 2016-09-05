@@ -1,12 +1,19 @@
-# iOS-dev-ref
-Taking note for current & future use.
+# iOS development resources
+
+Some resources I found useful while writing iOS codes.
+
+*Disclaimer: these are for my own references, so it might be modified rapidly.*
+
+### Books 
+
+* [Advanced Swift By Chris Eidhof and Airspeed Velocity](https://www.objc.io/books/advanced-swift/preview/)
 
 ### Basic Design Elements & Xcode
 
 * [frame & bounds](http://n11studio.blogspot.tw/2012/06/frame-bounds.html)
 * [The iOS Design Guidelines](http://ivomynttinen.com/blog/ios-design-guidelines)
-* [Designing for iOS 9
-](https://designcode.io/iosdesign-guidelines)
+* [Designing for iOS 9](https://designcode.io/iosdesign-guidelines)
+* [Xcode doesn't see my iOS device but iTunes does](http://stackoverflow.com/questions/10087985/xcode-doesnt-see-my-ios-device-but-itunes-does)
 
 ### Syntax
 
