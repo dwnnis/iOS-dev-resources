@@ -4,7 +4,7 @@ Some resources I found useful while writing iOS codes.
 
 *Disclaimer: these are for my own references, so it might be modified rapidly.*
 
-### Books 
+### Books
 
 * [Advanced Swift By Chris Eidhof and Airspeed Velocity](https://www.objc.io/books/advanced-swift/preview/)
 
@@ -58,6 +58,5 @@ Some resources I found useful while writing iOS codes.
 
 ### Issue
 
-* [Xcode doesn't see my iOS device but iTunes does](http://stackoverflow.com/questions/10087985/xcode-doesnt-see-my-ios-device-but-itunes-does)
-** This has annoyed me for a long time, and I fixed this through restarting `usbmuxd`. 
-
+* [Xcode doesn't see my iOS device but iTunes does](http://stackoverflow.com/questions/10087985/xcode-doesnt-see-my-ios-device-but-itunes-does)  
+ This has annoyed me for a long time, and I fixed this through restarting `usbmuxd`.
