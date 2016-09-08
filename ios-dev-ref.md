@@ -55,3 +55,9 @@ Some resources I found useful while writing iOS codes.
 
 * [GPUImage2](https://github.com/BradLarson/GPUImage2)
 * [Former](https://github.com/ra1028/Former)
+
+### Issue
+
+* [Xcode doesn't see my iOS device but iTunes does](http://stackoverflow.com/questions/10087985/xcode-doesnt-see-my-ios-device-but-itunes-does)
+** This has annoyed me for a long time, and I fixed this through restarting `usbmuxd`. 
+
