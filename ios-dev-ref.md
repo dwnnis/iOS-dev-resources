@@ -15,6 +15,12 @@ Some resources I found useful while writing iOS codes.
 * [Designing for iOS 9](https://designcode.io/iosdesign-guidelines)
 * [Xcode doesn't see my iOS device but iTunes does](http://stackoverflow.com/questions/10087985/xcode-doesnt-see-my-ios-device-but-itunes-does)
 
+### Debug
+
+* [Tracking down an Xcode bug with Swift 2.2](http://blog.bellebethcooper.com/xcode-bug.html)
+ I encountered this problem with no clue last week. ("An internal error occurred. Source editor functionality is limited. Attempting to restore...") Here's a great article on figuring out the issue.
+* [Dancing in the Debugger — A Waltz with LLDB](https://www.objc.io/issues/19-debugging/lldb-debugging/)
+
 ### Syntax
 
 * ["WEAK, STRONG, UNOWNED, OH MY!" - A GUIDE TO REFERENCES IN SWIFT](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
